@@ -1,3 +1,12 @@
+<h2>Follow Me</h2>
+<p>Stay connected with my latest projects and insights:</p>
+<ul>
+  <li><strong>Bluesky</strong>: <a href="https://bsky.app/profile/kelvintechnical.bsky.social">kelvintechnical.bsky.social</a></li>
+  <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/kelvin-r-tobias-211949219/">Kelvin R. Tobias</a></li>
+      <li><strong>IG</strong>: <a href="https://www.instagram.com/kelvinintech">Kelvin R. Tobias</a></li>
+</ul>
+
+
 # 🚀 208 Python Project Ideas to Boost Your Programming Skills
 
 ### Welcome to the ultimate list of Python project ideas!  
